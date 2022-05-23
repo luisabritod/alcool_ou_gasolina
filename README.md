@@ -1,6 +1,6 @@
 # alcool_ou_gasolina
 
-A new Flutter project.
+Flutter project in which it detects which fuel is more profitable
 
 ## Getting Started
 
